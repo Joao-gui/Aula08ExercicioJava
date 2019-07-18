@@ -1,5 +1,5 @@
-# Aula09ExercicioJava
+# Aula08ExercicioJava
 
-Exercicio da Aula 09 do dia 18/07/2019  
+Exercicio da Aula 08 do dia 17/07/2019  
 **Aluno:** João Guilherme  
 **DB1 START**
